@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm David
+👀 I’m interested in technology covering health and safety, spatial imaging and intelligent transport systems.
+🌱 I’m currently learning MLops
+💞️ I’m looking to collaborate on promising open-source technologies
+📫 Learn more about me in https://davyk.vercel.app/
 
 <!--
 **kitavidavis/kitavidavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
